@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="PostForge — AI carousel maker" width="820">
+  <img src="assets/icon.png" alt="PostForge" width="120">
 </p>
+
+<h1 align="center">PostForge</h1>
 
 <p align="center">
   An AI studio for forging swipeable social media <b>carousels</b> from a single idea —
