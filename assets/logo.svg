@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ember" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a45"/>
+      <stop offset="1" stop-color="#ff3d77"/>
+    </linearGradient>
+  </defs>
+  <!-- App tile -->
+  <rect x="16" y="16" width="480" height="480" rx="120" fill="url(#ember)"/>
+  <!-- Carousel: two peeking side cards + a center card (swipeable slides) -->
+  <rect x="120" y="184" width="80" height="144" rx="18" fill="#ffffff" opacity="0.45"/>
+  <rect x="312" y="184" width="80" height="144" rx="18" fill="#ffffff" opacity="0.45"/>
+  <rect x="198" y="150" width="116" height="212" rx="26" fill="#ffffff"/>
+  <!-- accent rule on the center slide -->
+  <rect x="222" y="188" width="42" height="11" rx="5.5" fill="url(#ember)"/>
+  <rect x="222" y="214" width="68" height="9" rx="4.5" fill="#ff7a45" opacity="0.55"/>
+  <rect x="222" y="234" width="54" height="9" rx="4.5" fill="#ff7a45" opacity="0.55"/>
+  <!-- forge spark -->
+  <path d="M372 120 l13 31 31 13 -31 13 -13 31 -13 -31 -31 -13 31 -13 z" fill="#ffffff"/>
+</svg>
